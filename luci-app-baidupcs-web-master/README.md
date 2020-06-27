@@ -1,4 +1,4 @@
-# luci-app-baidupcs-web
+# luci-app-baidupcs-web-master
 本插件为[BaiduPCS-Web](https://github.com/liuzhuoling2011/baidupcs-web)的LuCI配置页面, 用于启动以及配置BaiduPCS-Web. 
 
 部分代码来自[[CTCGFW]](https://github.com/project-openwrt/BaiduPCS-Web/tree/master/luci-app-baidupcs-web).
